@@ -1,4 +1,5 @@
 🏠 House Price Prediction Project
+
 This project aims to predict house prices based on various features such as lot area, building type, year built, and more. The dataset provided contains information about different houses, including their characteristics and sale prices. The goal is to analyze the data, build a predictive model, and visualize the results.
 
 📄 Table of Contents
